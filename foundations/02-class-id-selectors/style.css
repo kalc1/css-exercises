@@ -2,10 +2,15 @@
    background-color: #ffc0cb; 
    font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
-div {
+#second {
     color: rgb(10, 10, 230);
     font-size: 36px;
 }
 .third {
     font-size: 24px;
+}
+#fourth {
+    background-color: rgba(111, 236, 121, 0.842);
+    font-size: 24px;
+    font-weight: bold;
 }
