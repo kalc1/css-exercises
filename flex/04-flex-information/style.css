@@ -20,7 +20,10 @@ img {
   display: flex;
   flex-flow: column;
   align-items: center;
+  width: 200px;
 }
+
+
 
 /* do not edit this footer */
 .footer {
