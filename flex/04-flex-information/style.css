@@ -13,6 +13,13 @@ img {
   text-align: center;
 }
 
+.pepper, 
+.barberry,
+.chili,
+.saffron {
+  width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
